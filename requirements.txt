@@ -1,0 +1,7 @@
+Package    Version
+---------- -------
+matplotlib 3.7.1
+pandas     2.0.2
+pip        23.1.2
+setuptools 67.7.2
+wheel      0.40.0
