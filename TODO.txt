@@ -1,0 +1,5 @@
+TODO:
+
+- Crear TRAIN set
+    - Crear train set para cada miembro inferior y articulación. 
+    
