@@ -1,5 +1,15 @@
 TODO:
 
 - Crear TRAIN set
-    - Crear train set para cada miembro inferior y articulación. 
-    
+    - Crear unbalanced postprocessed train set para cada miembro inferior y articulación. 
+- Crear TEST set
+    - para cada miembro inferior y articulación
+- Número de TRIALS por paciente
+    - en el unbalanced postprocessed train set
+- Número de sesiones por paciente
+- Hacer las carpetas con los diferentes grupos
+
+- Agrupar por número de sesiones (pacientes que tengan 2, 3 y 4 sesiones)
+- Nos quedamos sólo con la primera y la última sesión por paciente
+- Calcular la media de los trials por sesión para cada paciente
+- Eliminar las columnas SUBJECT_ID, SESSION_ID y TRIAL_ID
