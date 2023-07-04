@@ -1,15 +1,25 @@
 TODO:
 
-- Crear TRAIN set
+- Crear TRAIN set **DONE**
     - Crear unbalanced postprocessed train set para cada miembro inferior y articulación. 
-- Crear TEST set
+- Crear TEST set **DONE**
     - para cada miembro inferior y articulación
-- Número de TRIALS por paciente
+- Número de TRIALS por paciente **DONE**
     - en el unbalanced postprocessed train set
-- Número de sesiones por paciente
-- Hacer las carpetas con los diferentes grupos
+- Número de sesiones por paciente **DONE**
 
-- Agrupar por número de sesiones (pacientes que tengan 2, 3 y 4 sesiones)
-- Nos quedamos sólo con la primera y la última sesión por paciente
+- Hacer las carpetas con los diferentes grupos **DONE**
+- Selcción de pacientes con 2, 3 o 4 sesiones **DONE**
+- Separar por 2, 3 y 4 sesiones en diferentes CSV **DONE**
+
+- Nos quedamos sólo con la primera y la última sesión por paciente **DONE**
+
 - Calcular la media de los trials por sesión para cada paciente
 - Eliminar las columnas SUBJECT_ID, SESSION_ID y TRIAL_ID
+
+
+NOTES: 
+- Hacer cross-validation en lugar de un validation set. 
+Separar scripts: 
+    - EDA 
+    - Data Preprocessing 
