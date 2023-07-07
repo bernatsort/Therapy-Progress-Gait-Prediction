@@ -13,9 +13,26 @@ TODO:
 - Separar por 2, 3 y 4 sesiones en diferentes CSV **DONE**
 
 - Nos quedamos sólo con la primera y la última sesión por paciente **DONE**
+- Calcular la media de los trials por sesión para cada paciente **DONE**
 
-- Calcular la media de los trials por sesión para cada paciente
+
+- Hacer función: Plot group 1st session mean + group last session mean + HC mean
+
+- Hacemos los modelos con GRF_F_AP_PRO. 
+
+
+
+
 - Eliminar las columnas SUBJECT_ID, SESSION_ID y TRIAL_ID
+
+- Como se aleja de la normalidad: 
+    -	Calcular la distancia o una métrica de similitud entre la normalidad 
+        y cada individuo pq así tendremos una distribución de cómo se alejan de la 
+        normalidad ¿de la basal? y en la recuperación. 
+        o   Esto hacerlo con los pacientes sanos HC: con los controles (HC) 
+            hacer la curva de normalidad y tendré una referencia para ver 
+            como los otros se alejan de la normalidad. 
+        o	Esto es interesante para ver cómo evolucionan. 
 
 
 NOTES: 
