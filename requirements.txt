@@ -9,3 +9,4 @@ setuptools                    68.0.0
 sklearn                       0.0.post5
 statsmodels                   0.14.0
 wheel                         0.40.0
+xgboost                       1.7.6
