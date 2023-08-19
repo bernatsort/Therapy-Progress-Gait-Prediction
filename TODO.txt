@@ -14,12 +14,22 @@ TODO:
 
 - Nos quedamos sólo con la primera y la última sesión por paciente **DONE**
 - Calcular la media de los trials por sesión para cada paciente **DONE**
+- Hacer función: Plot group 1st session mean + group last session mean + HC mean **DONE**
 
 
-- Hacer función: Plot group 1st session mean + group last session mean + HC mean
+- Test set preprocessing: **DONE**
+    - hacerlo cuando esté todo el train set preprocesado.
+    - crear una función de preprocessamiento general.
 
-- Hacemos los modelos con GRF_F_AP_PRO. 
+- Primer MODELO (primera aproximación): 
+    - Hacemos los modelos con GRF_F_AP_PRO: crear la misma estructura de carpetas 
+    con solo los csv GRF_F_AP_PRO. **DONE**
+    - Poner las dos extremidades inferiores en el mismo dataset.  **DONE**
+    - Función X_train y_train X_test y _test  **DONE**
 
+
+    - La segunda fila por paciente (última sesión es la que queremos predecir) 
+    es nuestro outcome. 
 
 
 
