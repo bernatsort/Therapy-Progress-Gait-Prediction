@@ -1,4 +1,4 @@
-# Therapy Progress Gait Prediction
+# Benchmarking data processing and regression techniques to predict rehabilitation progress in patients with musculoskeletal disorders of the ankle.
 Master's Thesis 
 
 ### 📝About the project 
