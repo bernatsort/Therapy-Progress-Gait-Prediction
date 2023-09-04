@@ -5,7 +5,7 @@ TODO:
 - Crear TEST set **DONE**
     - para cada miembro inferior y articulación
 - Número de TRIALS por paciente **DONE**
-    - en el unbalanced postprocessed train set
+    - en el unbal anced postprocessed train set
 - Número de sesiones por paciente **DONE**
 
 - Hacer las carpetas con los diferentes grupos **DONE**
@@ -50,3 +50,5 @@ NOTES:
 Separar scripts: 
     - EDA 
     - Data Preprocessing 
+
+# End code: 3 sept
