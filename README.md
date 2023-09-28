@@ -7,7 +7,7 @@ Master's Thesis
 Conducted a comprehensive research study focused on the application of advanced machine learning algorithms and data preprocessing techniques to predict rehabilitation outcomes in patients with ankle disorders. Leveraged state of the art regression models to derive valuable insights from human gait data, contributing to the optimization of musculoskeletal rehabilitation practices.
 Realicé un ámplio estudio de investigación centrado en la aplicación de algoritmos de aprendizaje automático y técnicas de preprocesamiento de datos para predecir los resultados de rehabilitación en pacientes con trastornos musculoesqueléticos en el tobillo. Utilicé modelos de regresión de última generación para obtener conocimientos valiosos a partir de datos de la marcha humana, contribuyendo a la optimización de las prácticas de rehabilitación musculoesquelética.
 
-### Goals
+### 🎯Goals
 
 1. Analyze and predict the progress and evolution of patients with musculoskeletal ankle disorders undergoing two rehabilitation sessions using Machine Learning techniques.
 Analizar y predecir el progreso y la evolución de los pacientes con deficiencias musculoesqueléticas en el tobillo sometidos a dos sesiones de rehabilitación mediante técnicas de Machine Learning.
