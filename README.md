@@ -21,3 +21,13 @@ Contribuir a la atención personalizada de los pacientes y a la optimización de
 ### 💾Data
 Horsak, B., Slijepcevic, D., Raberger, AM. et al. GaitRec, a large-scale ground reaction force dataset of healthy and impaired gait. Sci Data 7, 143 (2020). https://doi.org/10.1038/s41597-020-0481-z
 
+### 📒Notebooks and scripts:
+1.	EDA_DataPreprocessing_FeatureEngineering.ipynb
+2.	first_models.ipynb
+3.	PLS_model.ipynb
+4.	DecisionTrees_models.ipynb
+5.	RandomForest_models..ipynb
+6.	xgboost_models.ipynb
+7.	SVR_models.ipynb
+8.	model_comparison.ipynb
+
